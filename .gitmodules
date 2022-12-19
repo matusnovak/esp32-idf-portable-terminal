@@ -1,0 +1,9 @@
+[submodule "lib/esp-idf-ssd1963"]
+	path = lib/esp-idf-ssd1963
+	url = git@github.com:matusnovak/esp-idf-ssd1963.git
+[submodule "lib/esp-idf-hr2046"]
+	path = lib/esp-idf-hr2046
+	url = git@github.com:matusnovak/esp-idf-hr2046.git
+[submodule "lib/esp-idf-m95-eeprom"]
+	path = lib/esp-idf-m95-eeprom
+	url = git@github.com:matusnovak/esp-idf-m95-eeprom.git
